@@ -20,7 +20,7 @@
     <properties>
         <java.version>17</java.version>
         <!-- SonarQube configuration — update SONAR_SERVER_IP before scanning -->
-        <sonar.projectKey>bibhu</sonar.projectKey>
+        <sonar.projectKey>bibhu-devsecops_devsecops</sonar.projectKey>
         <sonar.organization>bibhu-devsecops</sonar.organization>
         <sonar.projectName>SBI Loan Management System</sonar.projectName>
         <sonar.java.source>17</sonar.java.source>
