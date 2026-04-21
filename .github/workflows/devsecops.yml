@@ -67,7 +67,6 @@ jobs:
             -Dsonar.projectKey=bibhu-devsecops_devsecopsgit \
             -Dsonar.qualitygate.wait=true \
             -Dsonar.qualitygate.timeout=300
-            
       # Quality Gate: 0 new Blocker, 0 new Critical — build fails if not met
 
       # ── Stage 3: Build Docker Image ─────────────────────────────────────────────
